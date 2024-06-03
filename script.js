@@ -14,3 +14,6 @@ function findLongestWord(str) {
 
 // export the function
 module.exports = findLongestWord
+
+// Function to test the function
+const findLongestWord = require('./script.js')
